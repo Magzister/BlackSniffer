@@ -1,0 +1,16 @@
+D:\KSIS\НОВЫЙ КУРСАЧ\BlackSniffer\obj\Debug\BlackSniffer.csprojAssemblyReference.cache
+D:\KSIS\НОВЫЙ КУРСАЧ\BlackSniffer\obj\Debug\BlackSniffer.MainForm.resources
+D:\KSIS\НОВЫЙ КУРСАЧ\BlackSniffer\obj\Debug\BlackSniffer.PacketInnerInfo.resources
+D:\KSIS\НОВЫЙ КУРСАЧ\BlackSniffer\obj\Debug\BlackSniffer.Properties.Resources.resources
+D:\KSIS\НОВЫЙ КУРСАЧ\BlackSniffer\obj\Debug\BlackSniffer.csproj.GenerateResource.cache
+D:\KSIS\НОВЫЙ КУРСАЧ\BlackSniffer\obj\Debug\BlackSniffer.csproj.CoreCompileInputs.cache
+D:\KSIS\НОВЫЙ КУРСАЧ\BlackSniffer\bin\Debug\BlackSniffer.exe.config
+D:\KSIS\НОВЫЙ КУРСАЧ\BlackSniffer\bin\Debug\BlackSniffer.exe
+D:\KSIS\НОВЫЙ КУРСАЧ\BlackSniffer\bin\Debug\BlackSniffer.pdb
+D:\KSIS\НОВЫЙ КУРСАЧ\BlackSniffer\bin\Debug\log4net.dll
+D:\KSIS\НОВЫЙ КУРСАЧ\BlackSniffer\bin\Debug\PacketDotNet.dll
+D:\KSIS\НОВЫЙ КУРСАЧ\BlackSniffer\bin\Debug\SharpPcap.dll
+D:\KSIS\НОВЫЙ КУРСАЧ\BlackSniffer\bin\Debug\log4net.xml
+D:\KSIS\НОВЫЙ КУРСАЧ\BlackSniffer\obj\Debug\BlackSniffer.csproj.CopyComplete
+D:\KSIS\НОВЫЙ КУРСАЧ\BlackSniffer\obj\Debug\BlackSniffer.exe
+D:\KSIS\НОВЫЙ КУРСАЧ\BlackSniffer\obj\Debug\BlackSniffer.pdb
